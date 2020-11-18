@@ -1,11 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem?
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Este é o repositorio do BootCamp, onde aprendo e executo a tela inicial do Instagram :D
 
 ### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML básico]
+* [CSS básico]
 
 ## 🚀 Let's code! 🚀
 # Projeto-Instagram
